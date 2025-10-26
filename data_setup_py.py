@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """data_setup.py
-
-Original file is located at
-    https://colab.research.google.com/drive/1KoDF6GdSvX8eeYcVi-REiqNnZwClUnby
 """
 
 import pandas as pd
