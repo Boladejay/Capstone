@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-"""federated_training.py
-"""
+"""federated_training.py"""
 import tensorflow as tf
 import tensorflow_federated as tff
 import pandas as pd
